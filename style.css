@@ -1,0 +1,147 @@
+body
+{
+	margin-top:9%;
+}
+
+.header_top
+{
+  background-color:#0083C9 !important;
+}
+.social-icons ul li a,.contactinfo ul li a 
+{
+  color: #fff;
+  text-shadow: 1px 1px 1px #222;
+}
+.shop-menu ul li:first-child a 
+{
+  color:#FE980F;
+}
+.feature-items-custom-img
+{
+	height: 268px;
+	width: 249px;
+}
+.slider-custom-img
+{
+	height: 441px;
+	width: 484px;
+}
+#header
+{
+	position: fixed;
+	z-index: 999;
+	top:0;
+	
+	left: 0;
+	right:0;
+}
+.header-middle
+{
+	background-color: #fff;
+}
+.header-bottom .container
+{
+	background-color: #fff;
+}
+.btn-group .btn
+{
+	color: #FE980F;
+	border-color: #FE980F;
+	transition: 0.3s;
+}
+.btn-group .btn:hover
+{
+	color: #fff;
+}
+.btn-group .btn:active
+{
+	color:#B4B1AB;
+}
+.search_box
+{
+	border-radius: 5px;
+	box-shadow: 0 0 1px #222;
+}
+.search_box:focus
+{
+	border-radius: 5px;
+	box-shadow: 5px 5px 5px #000;
+}
+.search_box input
+{
+	border-radius: 5px;
+}
+.content-product 
+{
+	height: 207px;
+	width: 183px;
+}
+.mainmenu 
+{
+	
+}
+.mainmenu ul li a 
+{
+	color:#fff;
+	padding: 10px;
+}
+.mainmenu>ul>li
+{
+    padding-right: 0;
+}
+.mainmenu>ul>li>a:hover 
+{
+	color: #0083C9;
+	background-color: #fff;
+	text-shadow: none;
+}
+.mainmenu>ul>li>a:focus
+{
+	color:#0083C9;
+	background-color: #fff;
+	text-shadow: none;
+}
+.mainmenu>ul>li>ul>li
+{
+	height: 40px;
+	width: 97%;
+	margin-left: 1%;
+}
+.mainmenu>ul>li>ul>li:hover
+{
+	background-color: #fff;
+}
+.mainmenu>ul>li>ul>li:hover a,.mainmenu>ul>li>ul>li>a:hover
+{
+	color:#0083C9 !important;
+}
+.shop-menu ul li a:first-child
+{
+	 color: #696763;
+}
+.shop-menu ul li a:hover
+{
+    color: #0083C9;
+}
+.custom-price
+{
+	color: #0083C9;
+}
+.contact-form input:hover,.contact-form textarea:hover,.contact-form input:focus,.contact-form textarea:focus
+{
+	border-color:#0083C9 !important;
+}
+.contact-form .btn
+{ 
+	background-color:  #0083C9;
+    transition: 0.3s;
+    box-shadow: 0px 0px 2px #222;
+}
+.contact-form .btn:hover
+{ 
+	box-shadow: none;
+}
+.shopper-info .btn
+{
+	background-color: #0083C9;
+}
